@@ -1,0 +1,11 @@
+{
+  "name": "onemegabyte",
+  "version": "1.0.0",
+  "description": "API Framework with Nodejs and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas Tomanga <celleb@mrcelleb.com>",
+  "license": "ISC"
+}
