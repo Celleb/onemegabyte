@@ -9,6 +9,10 @@
   "author": "Jonas Tomanga <celleb@mrcelleb.com>",
   "license": "ISC",
   "dependencies": {
-    "express": "4.15.3"
+    "bluebird": "3.5.0",
+    "body-parser": "1.17.2",
+    "compression": "1.6.2",
+    "express": "4.15.3",
+    "multer": "1.3.0"
   }
 }
