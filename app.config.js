@@ -1,11 +1,10 @@
 module.exports = {
     db: {
-        url: "mongodb://130.211.102.183:27017/intercity",
-        user: "interCityMobile",
-        password: "@interCityMobility",
+        url: "mongodb://localhost:27017/onemegabyte",
+        user: "username",
+        password: "password",
         auth: {
             authSource: 'admin'
         }
     }
-
 }
