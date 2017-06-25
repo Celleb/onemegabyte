@@ -2,8 +2,7 @@ module.exports = {
     routes: [
         {
             path: "/users",
-            model: "Users",
-            controller: "Users"
+            model: "users.model",
         }
     ]
 }
